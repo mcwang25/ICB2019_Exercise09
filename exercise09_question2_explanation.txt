@@ -1,0 +1,16 @@
+The bar graph and scatterplot for the dataset tell two different stories.
+
+The bar graph shows the average observation valuue for each region.
+
+The scatterplot shows the distribution of observation values for each region.
+
+The bar graph shows that each region (east, north, south, and west) has an 
+average observation value of approximately 15, suggesting the four regions
+have similar properties.
+
+The scatterplot shows that the distibution of observations values in each
+region is unique. The eastern region has a standard Gaussian distribution, 
+or bell curve. The northern region has a roughly continuous uniform 
+distribution certered around 15. The southern region has a bimodal 
+distribution at the extremes. The western region has a uniform distribution
+throughout the range of observation values.
